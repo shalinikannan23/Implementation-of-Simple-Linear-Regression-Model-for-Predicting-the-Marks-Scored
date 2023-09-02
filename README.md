@@ -94,6 +94,7 @@ Graph For Testing Set
 ![image](https://github.com/shalinikannan23/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118656529/1d1f9c4f-e993-4eb0-a637-5b00b0b83b0c)
 
 Error
+
 ![image](https://github.com/shalinikannan23/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118656529/9af672d3-8322-45b6-9c36-e971d7979970)
 
 
