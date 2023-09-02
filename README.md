@@ -70,17 +70,29 @@ print("Root Mean Square Error = ",rmse)
 
 ## Output:
 To read csv file
+
 ![image](https://github.com/shalinikannan23/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118656529/8c572323-f493-4a60-a2ab-605cad98ce09)
+
 To Read Head and Tail Files
+
 ![image](https://github.com/shalinikannan23/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118656529/ddb8c986-8a26-4cfe-b61d-3fa767da2807)
+
 Compare Dataset
+
 ![image](https://github.com/shalinikannan23/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118656529/0cd63521-445b-4816-be17-f07e07c113f6)
+
 Predicted Value
+
 ![image](https://github.com/shalinikannan23/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118656529/081453ac-bfac-4604-a9b5-447a95e5503c)
+
 Graph For Training Set
+
 ![image](https://github.com/shalinikannan23/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118656529/42b90a47-7157-4dbb-b339-469a120a1e3a)
+
 Graph For Testing Set
+
 ![image](https://github.com/shalinikannan23/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118656529/1d1f9c4f-e993-4eb0-a637-5b00b0b83b0c)
+
 Error
 ![image](https://github.com/shalinikannan23/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118656529/9af672d3-8322-45b6-9c36-e971d7979970)
 
